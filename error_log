@@ -1,0 +1,302 @@
+[30-Nov-2016 16:27:12 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 24
+[30-Nov-2016 16:27:12 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 100
+[30-Nov-2016 16:28:04 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 24
+[30-Nov-2016 16:28:04 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 100
+[30-Nov-2016 16:28:48 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 25
+[30-Nov-2016 16:28:48 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 101
+[30-Nov-2016 16:31:37 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 25
+[30-Nov-2016 16:31:37 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 101
+[30-Nov-2016 16:32:35 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 26
+[30-Nov-2016 16:32:35 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 102
+[30-Nov-2016 16:45:36 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/productos.php on line 18
+[06-Dec-2016 11:51:06 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pafycsec/public_html/expositores/noticia/noticiacompleta.php on line 72
+[06-Dec-2016 11:51:06 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pafycsec/public_html/expositores/noticia/noticiacompleta.php on line 74
+[06-Dec-2016 12:09:25 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pafycsec/public_html/expositores/noticia/empresanoticia.php on line 14
+[06-Dec-2016 12:09:25 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pafycsec/public_html/expositores/noticia/empresanoticia.php on line 23
+[06-Dec-2016 12:09:25 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/pafycsec/public_html/expositores/noticia/empresanoticia.php on line 27
+[06-Dec-2016 12:09:25 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/empresanoticia.php on line 35
+[06-Dec-2016 12:09:25 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/empresanoticia.php on line 117
+[06-Dec-2016 12:09:32 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pafycsec/public_html/expositores/noticia/empresanoticia.php on line 14
+[06-Dec-2016 12:09:32 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pafycsec/public_html/expositores/noticia/empresanoticia.php on line 23
+[06-Dec-2016 12:09:32 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/pafycsec/public_html/expositores/noticia/empresanoticia.php on line 27
+[06-Dec-2016 12:09:32 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/empresanoticia.php on line 35
+[06-Dec-2016 12:09:32 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/empresanoticia.php on line 117
+[06-Dec-2016 12:14:59 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/empresanoticia.php on line 35
+[06-Dec-2016 12:14:59 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/empresanoticia.php on line 117
+[06-Dec-2016 12:19:10 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/empresanoticia.php on line 35
+[06-Dec-2016 12:19:10 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/empresanoticia.php on line 117
+[06-Dec-2016 12:22:43 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/empresanoticia.php on line 35
+[06-Dec-2016 12:22:43 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/empresanoticia.php on line 117
+[06-Dec-2016 12:34:11 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pafycsec/public_html/expositores/noticia/noticiadescripcion.php on line 115
+[02-Jan-2017 17:18:32 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 27
+[02-Jan-2017 17:18:32 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 105
+[02-Jan-2017 17:18:59 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 27
+[02-Jan-2017 17:18:59 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 105
+[02-Jan-2017 17:20:47 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 27
+[02-Jan-2017 17:20:47 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 105
+[10-Jan-2017 11:20:31 America/New_York] PHP Parse error:  syntax error, unexpected '++' (T_INC) in /home/pafycsec/public_html/expositores/noticia/noticias.php on line 62
+[11-Jan-2017 16:09:42 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[11-Jan-2017 16:09:42 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[11-Jan-2017 16:09:42 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[11-Jan-2017 16:09:42 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[11-Jan-2017 16:09:42 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[11-Jan-2017 16:10:02 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[11-Jan-2017 16:10:02 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[11-Jan-2017 16:10:02 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[11-Jan-2017 16:10:02 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[11-Jan-2017 16:10:02 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 10:08:25 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 10:08:25 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 10:08:25 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 10:08:25 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 10:08:25 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 10:35:57 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 10:35:57 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 10:35:57 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 10:35:57 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 10:35:57 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 11:35:04 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 11:35:04 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 11:35:04 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 11:35:04 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 11:35:04 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 11:36:27 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 11:36:27 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 11:36:27 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 11:36:27 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 11:36:27 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 11:52:43 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 11:52:43 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 11:52:43 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 11:52:43 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 11:52:43 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 12:20:52 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 12:20:52 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 12:20:52 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 12:20:52 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 12:20:52 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 12:20:58 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 12:20:58 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 12:20:58 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 12:20:58 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 12:20:58 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 12:54:51 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 12:54:51 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 12:54:51 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 12:54:51 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 12:54:51 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 12:59:27 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 12:59:27 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 12:59:27 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 12:59:27 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 12:59:27 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 13:00:18 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 13:00:18 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:00:18 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 13:00:18 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:00:18 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 13:12:54 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 13:12:54 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:12:54 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 13:12:54 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:12:54 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 13:14:21 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 13:14:21 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:14:21 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 13:14:21 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:14:21 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 13:14:32 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 13:14:32 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:14:32 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 13:14:32 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:14:32 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 13:16:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 13:16:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:16:15 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 13:16:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:16:15 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 13:16:42 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 13:16:42 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:16:42 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 13:16:42 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:16:42 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 13:17:16 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 13:17:16 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:17:16 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 13:17:16 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:17:16 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 13:23:57 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 13:23:57 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:23:57 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 13:23:57 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:23:57 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[12-Jan-2017 13:24:05 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[12-Jan-2017 13:24:05 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:24:05 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[12-Jan-2017 13:24:05 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[12-Jan-2017 13:24:05 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[13-Jan-2017 08:41:56 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[13-Jan-2017 08:41:56 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[13-Jan-2017 08:41:56 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[13-Jan-2017 08:41:56 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[13-Jan-2017 08:41:56 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[13-Jan-2017 08:45:56 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[13-Jan-2017 08:45:56 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[13-Jan-2017 08:45:56 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[13-Jan-2017 08:45:56 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[13-Jan-2017 08:45:56 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[13-Jan-2017 10:54:18 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/suhosin.so: undefined symbol: zend_execute_ex in Unknown on line 0
+[13-Jan-2017 10:54:18 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[13-Jan-2017 10:54:18 America/New_York] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[13-Jan-2017 10:54:18 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[13-Jan-2017 10:54:18 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[13-Jan-2017 11:54:33 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/caymo/public_html/noticia/noticias.php on line 28
+[13-Jan-2017 11:54:33 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/caymo/public_html/noticia/noticias.php on line 105
+[22-Jan-2017 11:07:26 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/caymo/public_html/noticia/noticias.php on line 28
+[22-Jan-2017 11:07:27 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/caymo/public_html/noticia/noticias.php on line 105
+[23-Jan-2017 10:32:19 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/caymo/public_html/noticia/noticias.php on line 28
+[23-Jan-2017 10:32:19 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/caymo/public_html/noticia/noticias.php on line 105
+[03-Feb-2017 11:01:38 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/caymo/public_html/noticia/noticias.php on line 28
+[03-Feb-2017 11:01:38 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/caymo/public_html/noticia/noticias.php on line 105
+[04-Feb-2017 14:35:16 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/caymo/public_html/noticia/noticias.php on line 28
+[04-Feb-2017 14:35:16 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/caymo/public_html/noticia/noticias.php on line 105
+[04-Feb-2017 14:38:04 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sgesecurityfair/public_html/SGE/noticia/noticias.php on line 28
+[04-Feb-2017 14:38:04 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/sgesecurityfair/public_html/SGE/noticia/noticias.php on line 105
+[04-Feb-2017 14:40:09 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sgesecurityfair/public_html/SGE/noticia/noticias.php on line 28
+[04-Feb-2017 14:40:09 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/sgesecurityfair/public_html/SGE/noticia/noticias.php on line 105
+[04-Feb-2017 14:53:59 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sgesecurityfair/public_html/SGE/noticia/noticiadescripcion.php on line 28
+[04-Feb-2017 14:56:37 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sgesecurityfair/public_html/SGE/noticia/noticiadescripcion.php on line 28
+[04-Feb-2017 15:29:17 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sgesecurityfair/public_html/SGE/noticia/noticiadescripcion.php on line 28
+[04-Feb-2017 17:35:16 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sgesecurityfair/public_html/SGE/noticia/productos.php on line 18
+[11-Feb-2017 10:59:51 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/conexion.php on line 3
+[11-Feb-2017 11:01:58 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/conexion.php on line 3
+[11-Feb-2017 11:02:04 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/noticias.php on line 128
+[11-Feb-2017 11:12:45 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta2.php on line 179
+[11-Feb-2017 11:21:31 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/nombreempresa.php on line 32
+[11-Feb-2017 11:24:07 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/empresanoticia.php on line 18
+[11-Feb-2017 11:24:07 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sgesecurityfair/public_html/SGE/noticia/empresanoticia.php on line 29
+[11-Feb-2017 11:24:07 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/sgesecurityfair/public_html/SGE/noticia/empresanoticia.php on line 33
+[11-Feb-2017 11:28:17 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/nombreempresa.php on line 32
+[11-Feb-2017 11:30:20 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/nombreempresa.php on line 32
+[11-Feb-2017 11:30:58 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/nombreempresa.php on line 32
+[11-Feb-2017 11:31:16 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/nombreempresa.php on line 32
+[11-Feb-2017 11:31:57 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/noticiadescripcion.php on line 122
+[11-Feb-2017 11:38:03 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/nombreempresa.php on line 32
+[11-Feb-2017 11:39:15 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/nombreempresa.php on line 32
+[11-Feb-2017 11:39:53 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/nombreempresa.php on line 32
+[11-Feb-2017 11:43:50 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sgesecurityfair/public_html/SGE/noticia/empresanoticia.php on line 41
+[11-Feb-2017 11:43:50 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/sgesecurityfair/public_html/SGE/noticia/empresanoticia.php on line 124
+[13-Feb-2017 08:15:04 America/New_York] PHP Warning:  mysql_set_charset(): Access denied for user ''@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta.php on line 17
+[13-Feb-2017 08:15:04 America/New_York] PHP Warning:  mysql_set_charset(): A link to the server could not be established in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta.php on line 17
+[13-Feb-2017 08:15:04 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta.php on line 62
+[13-Feb-2017 08:15:04 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta.php on line 64
+[13-Feb-2017 08:43:28 America/New_York] PHP Warning:  mysql_set_charset(): Access denied for user ''@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta.php on line 17
+[13-Feb-2017 08:43:28 America/New_York] PHP Warning:  mysql_set_charset(): A link to the server could not be established in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta.php on line 17
+[13-Feb-2017 08:43:28 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta.php on line 62
+[13-Feb-2017 08:43:28 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta.php on line 64
+[14-Feb-2017 14:52:07 America/New_York] PHP Warning:  mysql_set_charset(): Access denied for user ''@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta.php on line 17
+[14-Feb-2017 14:52:07 America/New_York] PHP Warning:  mysql_set_charset(): A link to the server could not be established in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta.php on line 17
+[14-Feb-2017 14:52:07 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta.php on line 62
+[14-Feb-2017 14:52:07 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta.php on line 64
+[14-Feb-2017 15:28:56 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sgesecurityfair/public_html/SGE/noticia/noticias.php on line 68
+[14-Feb-2017 15:29:12 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/sgesecurityfair/public_html/SGE/noticia/noticias.php on line 69
+[14-Feb-2017 15:29:18 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/sgesecurityfair/public_html/SGE/noticia/noticias.php on line 69
+[14-Feb-2017 15:43:54 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/sgesecurityfair/public_html/SGE/noticia/noticias.php on line 62
+[14-Feb-2017 15:44:04 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/sgesecurityfair/public_html/SGE/noticia/noticias.php on line 62
+[14-Feb-2017 15:50:35 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sgesecurityfair/public_html/SGE/noticia/noticias.php on line 60
+[14-Feb-2017 23:29:23 America/New_York] PHP Warning:  mysql_set_charset(): Access denied for user ''@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta.php on line 17
+[14-Feb-2017 23:29:23 America/New_York] PHP Warning:  mysql_set_charset(): A link to the server could not be established in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta.php on line 17
+[14-Feb-2017 23:29:23 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta.php on line 62
+[14-Feb-2017 23:29:23 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sgesecurityfair/public_html/SGE/noticia/noticiacompleta.php on line 64
